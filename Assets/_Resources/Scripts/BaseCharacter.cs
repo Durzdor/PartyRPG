@@ -1,3 +1,5 @@
+using UnityEditorInternal;
+
 namespace CharacterInfo
 {
     using UnityEngine;
