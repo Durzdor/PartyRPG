@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 46e7607a56901254295c52215bec6761
+guid: 0abbdfbacad557a46a968d7877013c47
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -69,7 +69,7 @@ TextureImporter:
     maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -104,7 +104,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: male_warrior_0
+      name: Eggnemy_0
       rect:
         serializedVersion: 2
         x: 0
@@ -118,14 +118,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0db6c24de9ae3574294011f372af3280
-      internalID: 706272755
+      spriteID: 21dbe238c9ae0674b8c9646294a7b6f9
+      internalID: -541462728
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: male_warrior_1
+      name: Eggnemy_1
       rect:
         serializedVersion: 2
         x: 512
@@ -139,14 +139,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e42cded7fb6021843b47f436c4c56c07
-      internalID: -961068926
+      spriteID: d59b1ff5f05cfef4d8638f0a07821a02
+      internalID: -907745177
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: male_warrior_2
+      name: Eggnemy_2
       rect:
         serializedVersion: 2
         x: 1024
@@ -160,14 +160,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c55c70a50c5d66848b2764a3ed0bf486
-      internalID: 1465470506
+      spriteID: 255bdd6be3f56a1429f194530ddc21b9
+      internalID: 553970766
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: male_warrior_3
+      name: Eggnemy_3
       rect:
         serializedVersion: 2
         x: 1536
@@ -181,14 +181,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a0eb3f971c1f45c4a959523d8939ce47
-      internalID: -529259455
+      spriteID: a2ecb989af21ca74cb5fac8f8e9f8a39
+      internalID: -1044938084
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: male_warrior_4
+      name: Eggnemy_4
       rect:
         serializedVersion: 2
         x: 0
@@ -202,14 +202,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4375e708f36740a4fb609a710bd6cec8
-      internalID: 1548010448
+      spriteID: eeff58621203d7842ac93b98c4f1325a
+      internalID: 2113058073
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: male_warrior_5
+      name: Eggnemy_5
       rect:
         serializedVersion: 2
         x: 512
@@ -223,14 +223,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c931761d31fa664690eeca247e93555
-      internalID: 2064178194
+      spriteID: 36eda428b89a43041b41c3d9e1c16e46
+      internalID: 2011522519
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: male_warrior_6
+      name: Eggnemy_6
       rect:
         serializedVersion: 2
         x: 1024
@@ -244,14 +244,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4c0793202ec3cb946bac350434a0c0ce
-      internalID: -692256309
+      spriteID: 545d8071410ed23449371e20bea7e3b0
+      internalID: -975814614
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: male_warrior_7
+      name: Eggnemy_7
       rect:
         serializedVersion: 2
         x: 1536
@@ -265,14 +265,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c269d1910be5cfc4cbe401c5f1ad3640
-      internalID: -133202625
+      spriteID: 52fc555f2ce6e2d409d3c654c39795e0
+      internalID: -1361896233
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: male_warrior_8
+      name: Eggnemy_8
       rect:
         serializedVersion: 2
         x: 0
@@ -286,14 +286,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: caf28e12f88a79147a65990c8c728f0a
-      internalID: -1663928008
+      spriteID: a3fd701fec6e6e848b34ac034c5e2db1
+      internalID: -652564768
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: male_warrior_9
+      name: Eggnemy_9
       rect:
         serializedVersion: 2
         x: 512
@@ -307,14 +307,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 68ef7c9e6fa960247ae356c7d8b007ae
-      internalID: 1284281470
+      spriteID: 7a2e20e5f2eb0d04197e057e77c0037c
+      internalID: -208074586
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: male_warrior_10
+      name: Eggnemy_10
       rect:
         serializedVersion: 2
         x: 1024
@@ -328,14 +328,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9761e4de9142e1a428af9e051d77563e
-      internalID: 965776487
+      spriteID: c17006af1aa67434ab1e1e5a913ccbe1
+      internalID: -1116390482
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: male_warrior_11
+      name: Eggnemy_11
       rect:
         serializedVersion: 2
         x: 1536
@@ -349,14 +349,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 497f3102b8d922646878f0bc98d9cac0
-      internalID: -1236094712
+      spriteID: c41295e8f78061040885ad78f67bae4f
+      internalID: -1542599820
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: male_warrior_12
+      name: Eggnemy_12
       rect:
         serializedVersion: 2
         x: 0
@@ -370,14 +370,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7060aac3303c6764e9a153356acc2fe1
-      internalID: -1470257784
+      spriteID: c7bda2eb9e8a10a47a1d67b5a6711b75
+      internalID: 1906056420
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: male_warrior_13
+      name: Eggnemy_13
       rect:
         serializedVersion: 2
         x: 512
@@ -391,14 +391,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b3e993e756e70fb4cb2b59d219597615
-      internalID: -1382583417
+      spriteID: 7e77f5c0db3c6fb479cbdaab19b0756c
+      internalID: -184835948
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: male_warrior_14
+      name: Eggnemy_14
       rect:
         serializedVersion: 2
         x: 1024
@@ -412,14 +412,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9eff95effcd71ff4a81e5bb9200c81e0
-      internalID: 1123580538
+      spriteID: b1e9f2847d5808c47a4b9506842b8d60
+      internalID: 332341579
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: male_warrior_15
+      name: Eggnemy_15
       rect:
         serializedVersion: 2
         x: 1536
@@ -433,18 +433,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2bd7fca4a2e4bb4409448a16c4ce2fd0
-      internalID: -308856260
+      spriteID: 9023b62fed54360408813917fc56ae06
+      internalID: 1667483948
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: warrior_idle_1
+      name: eggnemy_idle_1
       rect:
         serializedVersion: 2
         x: 0
-        y: 1536
+        y: 3584
         width: 512
         height: 512
       alignment: 0
@@ -454,18 +454,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a78f4d9814563d43a916b5d1bca51b7
-      internalID: -239870463
+      spriteID: 20ff89b76f4e6a44ba4817c03bbb9e6c
+      internalID: -1826912680
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: warrior_idle_2
+      name: eggnemy_idle_2
       rect:
         serializedVersion: 2
         x: 512
-        y: 1536
+        y: 3584
         width: 512
         height: 512
       alignment: 0
@@ -475,18 +475,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f913ae758d8319d41b550291970f22e6
-      internalID: -1204070497
+      spriteID: 2c5d66646aab3e746b63aff59d80ca20
+      internalID: -1330674581
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: warrior_idle_3
+      name: eggnemy_idle_3
       rect:
         serializedVersion: 2
         x: 1024
-        y: 1536
+        y: 3584
         width: 512
         height: 512
       alignment: 0
@@ -496,18 +496,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bc9a6cd5b26b8d343b9ebaa958d69f8b
-      internalID: -1061276930
+      spriteID: 1f6ae28cbeeb1664c9835cc6b91add5e
+      internalID: -1734517951
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: warrior_idle_4
+      name: eggnemy_idle_4
       rect:
         serializedVersion: 2
         x: 1536
-        y: 1536
+        y: 3584
         width: 512
         height: 512
       alignment: 0
@@ -517,18 +517,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7314181f5062c2e4eb227cf577bdcf58
-      internalID: 1092058847
+      spriteID: f4a582c836cdbb1448a8e9c5047b909d
+      internalID: 1474722260
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: warrior_walk_1
+      name: eggnemy_walk_1
       rect:
         serializedVersion: 2
         x: 0
-        y: 1024
+        y: 3072
         width: 512
         height: 512
       alignment: 0
@@ -538,18 +538,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 118ee0af22e8339449ce70c2b0d4e837
-      internalID: -2118248784
+      spriteID: d93dcd33b08a4384888e88e016c607d9
+      internalID: 82168891
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: warrior_walk_2
+      name: eggnemy_walk_2
       rect:
         serializedVersion: 2
         x: 512
-        y: 1024
+        y: 3072
         width: 512
         height: 512
       alignment: 0
@@ -559,18 +559,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7fe5a24ffcee0174b95ba6e69e43bdfb
-      internalID: 1923166154
+      spriteID: 6740564ee6aa2db4690f1d5749c992a6
+      internalID: -24229222
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: warrior_walk_3
+      name: eggnemy_walk_3
       rect:
         serializedVersion: 2
         x: 1024
-        y: 1024
+        y: 3072
         width: 512
         height: 512
       alignment: 0
@@ -580,18 +580,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 24ce55f7f230db2458e673575537f328
-      internalID: 1023026481
+      spriteID: 697fd45505b4b014ba1335912c0cbb80
+      internalID: 1085998203
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: warrior_walk_4
+      name: eggnemy_walk_4
       rect:
         serializedVersion: 2
         x: 1536
-        y: 1024
+        y: 3072
         width: 512
         height: 512
       alignment: 0
@@ -601,18 +601,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf048fdee65e66740a38d2e81dc466e3
-      internalID: 300689480
+      spriteID: 39fae3d80286c494294ec05fd80db507
+      internalID: 607538600
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: warrior_attack_1
+      name: eggnemy_attack_1
       rect:
         serializedVersion: 2
         x: 0
-        y: 512
+        y: 2560
         width: 512
         height: 512
       alignment: 0
@@ -622,18 +622,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b33d5d7d8acfd0b4888ce8ad4230527d
-      internalID: -924120029
+      spriteID: 78eeebc5b11cd6945acecbc82dab5519
+      internalID: 639026931
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: warrior_attack_2
+      name: eggnemy_attack_2
       rect:
         serializedVersion: 2
         x: 512
-        y: 512
+        y: 2560
         width: 512
         height: 512
       alignment: 0
@@ -643,18 +643,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 25685fa6adc7349459bd6405e1a89a3b
-      internalID: -48485377
+      spriteID: 5f30ad44ab8b406499899ed35f871b01
+      internalID: -489494229
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: warrior_attack_3
+      name: eggnemy_attack_3
       rect:
         serializedVersion: 2
         x: 1024
-        y: 512
+        y: 2560
         width: 512
         height: 512
       alignment: 0
@@ -664,18 +664,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 24ab7e7d7ac01714a9f17b7f1641e2d3
-      internalID: -150015738
+      spriteID: 473fa8cbc592b7740bc8cb07dfc88fa9
+      internalID: 597107509
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: warrior_attack_4
+      name: eggnemy_attack_4
       rect:
         serializedVersion: 2
         x: 1536
-        y: 512
+        y: 2560
         width: 512
         height: 512
       alignment: 0
@@ -685,18 +685,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1b5177814559dea41a7401868d404260
-      internalID: 2025113212
+      spriteID: da15b101de7dac841b755e2d3483441f
+      internalID: 211173986
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: warrior_death_1
+      name: eggnemy_death_1
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
+        y: 2048
         width: 512
         height: 512
       alignment: 0
@@ -706,18 +706,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b55c5a2948fa244ab1f815f2449046b
-      internalID: 318082937
+      spriteID: c94f76f4e2c5e90429055c4111b2bfd9
+      internalID: -2044557383
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: warrior_death_2
+      name: eggnemy_death_2
       rect:
         serializedVersion: 2
         x: 512
-        y: 0
+        y: 2048
         width: 512
         height: 512
       alignment: 0
@@ -727,18 +727,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f4b1dabbb5265ae45a553772ab97ed4f
-      internalID: 553595267
+      spriteID: a396be35f53c68b47a71cd22b589833b
+      internalID: 1592496973
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: warrior_death_3
+      name: eggnemy_death_3
       rect:
         serializedVersion: 2
         x: 1024
-        y: 0
+        y: 2048
         width: 512
         height: 512
       alignment: 0
@@ -748,18 +748,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a21d1982a6257b946b3e41298ea789b4
-      internalID: -774861714
+      spriteID: 5b188d39a9966284cb780909e00615b0
+      internalID: 1531642489
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: warrior_death_4
+      name: eggnemy_death_4
       rect:
         serializedVersion: 2
         x: 1536
-        y: 0
+        y: 2048
         width: 512
         height: 512
       alignment: 0
@@ -769,8 +769,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e664e94418273b644b15a386499fcc50
-      internalID: -1414287993
+      spriteID: 81eba2377bf5d7c4ba7e914613136837
+      internalID: -1526702471
       vertices: []
       indices: 
       edges: []
@@ -786,70 +786,70 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      male_warrior_2: 1465470506
-      male_warrior_23: -437305023
-      warrior_walk_1: -2118248784
-      male_warrior_10: 965776487
-      male_warrior_8: -1663928008
-      male_warrior_5: 2064178194
-      male_warrior_22: 1754869249
-      male_warrior_37: 418787018
-      male_warrior_11: -1236094712
-      male_warrior_32: -851412196
-      male_warrior_24: 971113992
-      male_warrior_30: -372590965
-      warrior_death_3: -774861714
-      male_warrior_36: 1031169351
-      male_warrior_28: -1612683709
-      male_warrior_1: -961068926
-      warrior_death_1: 318082937
-      warrior_attack_4: 2025113212
-      warrior_idle_4: 1092058847
-      warrior_death_2: 553595267
-      male_warrior_0: 706272755
-      male_warrior_29: 633700816
-      warrior_idle_2: -1204070497
-      male_warrior_38: -222754256
-      male_warrior_45: -1909139565
-      male_warrior_33: -1107482862
-      male_warrior_47: 869058495
-      warrior_attack_2: -48485377
-      warrior_death_4: -1414287993
-      male_warrior_14: 1123580538
-      male_warrior_41: -1740796565
-      male_warrior_42: 1497877188
-      warrior_idle_1: -239870463
-      male_warrior_35: -1663293050
-      male_warrior_46: -2019149190
-      male_warrior_21: -1163611965
-      male_warrior_26: 2145847379
-      male_warrior_15: -308856260
-      male_warrior_40: 1908384404
-      male_warrior_13: -1382583417
-      warrior_walk_4: 300689480
-      male_warrior_16: 1384638614
-      male_warrior_39: -1757758214
-      male_warrior_12: -1470257784
-      male_warrior_3: -529259455
-      male_warrior_9: 1284281470
-      male_warrior_17: -407852935
-      warrior_walk_3: 1023026481
-      male_warrior_6: -692256309
-      male_warrior_7: -133202625
-      warrior_attack_1: -924120029
-      warrior_idle_3: -1061276930
-      male_warrior_43: -876986940
-      male_warrior_18: 167511765
-      male_warrior_27: 1177431835
-      male_warrior_25: 1164257568
-      male_warrior_44: 1512002655
-      male_warrior_20: -164994035
-      male_warrior_31: -444037212
-      warrior_walk_2: 1923166154
-      male_warrior_19: -1212951762
-      male_warrior_34: 1762806093
-      warrior_attack_3: -150015738
-      male_warrior_4: 1548010448
+      eggnemy_attack_4: 211173986
+      Eggnemy_10: -1116390482
+      Eggnemy_21: -372506331
+      Eggnemy_49: 1530239722
+      Eggnemy_25: -1273368308
+      Eggnemy_26: 355523042
+      Eggnemy_12: 1906056420
+      Eggnemy_5: 2011522519
+      Eggnemy_56: -1063302021
+      Eggnemy_22: 925699394
+      Eggnemy_23: -1674438676
+      Eggnemy_28: -497252660
+      Eggnemy_6: -975814614
+      Eggnemy_11: -1542599820
+      Eggnemy_16: 2010964064
+      Eggnemy_15: 1667483948
+      Eggnemy_54: -69893401
+      Eggnemy_18: -151883939
+      Eggnemy_9: -208074586
+      eggnemy_walk_1: 82168891
+      Eggnemy_19: -1100595675
+      Eggnemy_3: -1044938084
+      Eggnemy_52: -1408907184
+      eggnemy_attack_3: 597107509
+      Eggnemy_4: 2113058073
+      eggnemy_idle_3: -1734517951
+      Eggnemy_58: -1320549097
+      Eggnemy_60: 493198069
+      eggnemy_walk_3: 1085998203
+      eggnemy_death_3: 1531642489
+      Eggnemy_48: 736429598
+      Eggnemy_17: 782398540
+      Eggnemy_8: -652564768
+      Eggnemy_14: 332341579
+      Eggnemy_0: -541462728
+      Eggnemy_55: 779433448
+      eggnemy_death_2: 1592496973
+      Eggnemy_51: 2023965007
+      Eggnemy_27: 364789311
+      eggnemy_walk_4: 607538600
+      Eggnemy_62: 1598706090
+      Eggnemy_63: -46014365
+      Eggnemy_13: -184835948
+      eggnemy_death_4: -1526702471
+      Eggnemy_30: 1911620464
+      Eggnemy_61: 448043565
+      Eggnemy_31: 2086596772
+      eggnemy_attack_1: 639026931
+      eggnemy_idle_4: 1474722260
+      eggnemy_idle_1: -1826912680
+      eggnemy_attack_2: -489494229
+      Eggnemy_50: 656909097
+      Eggnemy_2: 553970766
+      Eggnemy_20: 1648551237
+      Eggnemy_24: 739080834
+      Eggnemy_7: -1361896233
+      eggnemy_idle_2: -1330674581
+      eggnemy_death_1: -2044557383
+      eggnemy_walk_2: -24229222
+      Eggnemy_1: -907745177
+      Eggnemy_57: 2122292033
+      Eggnemy_53: 1185444965
+      Eggnemy_59: 199583094
+      Eggnemy_29: -431985910
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
