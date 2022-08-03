@@ -5,18 +5,21 @@ namespace CharacterInfo
 {
     public abstract class BaseCharacter : MonoBehaviour, ICharacter
     {
-        private BaseCharacterStatistics _baseCharacterStatistics;
+        protected BaseCharacterStatistics _baseCharacterStatistics;
         protected Health _health;
-        protected int _minHealth;
         public BaseCharacterStatistics BaseCharacterStatistics => _baseCharacterStatistics;
         public Health Health => _health;
-        public int MinHealth => _minHealth;
-        
-        public virtual void CalculateMaxHealth()
+
+        protected void Awake()
+        {
+            _health = GetComponent<Health>();
+        }
+
+        public void CalculateMaxHealth()
         {
             var maxHp = (_baseCharacterStatistics.Constitution * (int)HealthAttributeModifier.ConstitutionMod) + 
                            (_baseCharacterStatistics.Strength * (int)HealthAttributeModifier.StrengthMod) + 
-                           _minHealth;
+                           _baseCharacterStatistics.BaseHealth;
             _health.SetMaxHealth(maxHp);
         }
         

@@ -5,6 +5,5 @@ namespace CharacterInfo
         BaseCharacterStatistics BaseCharacterStatistics { get; }
         Health Health { get; }
         void CalculateMaxHealth();
-        int MinHealth { get; }
     }
 }

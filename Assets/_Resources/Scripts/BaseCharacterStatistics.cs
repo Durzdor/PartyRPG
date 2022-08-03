@@ -12,6 +12,8 @@ namespace CharacterInfo
          [SerializeField] private int intelligence = 1;
          [SerializeField] private int armor = 1;
          [SerializeField] private int magicResist = 1;
+         [SerializeField] private int baseHealth = 1;
+         
 
          public int Level => level;
          public int Strength => strength;
@@ -20,5 +22,7 @@ namespace CharacterInfo
          public int Intelligence => intelligence;
          public int Armor => armor;
          public int MagicResist => magicResist;
+
+         public int BaseHealth => baseHealth;
     }
 }
