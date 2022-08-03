@@ -19,5 +19,7 @@ namespace CharacterInfo
                            _minHealth;
             _health.SetMaxHealth(maxHp);
         }
+        
+        
     }
 }
