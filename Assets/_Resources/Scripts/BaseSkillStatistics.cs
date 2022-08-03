@@ -1,9 +1,8 @@
 using GlobalMechanics;
+using UnityEngine;
 
 namespace CharacterSkill
 {
-    using UnityEngine;
-
     [CreateAssetMenu(fileName = "New Character", menuName = "Character/Base Skill", order = 51)]
     public class BaseSkillStatistics : ScriptableObject
     {

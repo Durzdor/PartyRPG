@@ -1,7 +1,7 @@
+using UnityEngine;
+
 namespace GlobalMechanics
 {
-    using UnityEngine;
-
     public enum AttributeDesignation
     {
         Strength,
@@ -14,9 +14,14 @@ namespace GlobalMechanics
         Physical,
         Magical
     }
+
+    public enum HealthAttributeModifier
+    {
+        ConstitutionMod = 4,
+        StrengthMod = 2
+    }
     
     public class PublicEnums : MonoBehaviour
     {
-       
     }
 }

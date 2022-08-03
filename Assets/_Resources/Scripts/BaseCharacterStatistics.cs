@@ -1,7 +1,7 @@
+using UnityEngine;
+
 namespace CharacterInfo
-{
-    using UnityEngine;
-    
+{ 
     [CreateAssetMenu(fileName = "New Character", menuName = "Character/Base Stats", order = 51)]
     public class BaseCharacterStatistics : ScriptableObject
     {
