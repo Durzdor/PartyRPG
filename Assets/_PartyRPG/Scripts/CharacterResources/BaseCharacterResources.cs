@@ -1,4 +1,3 @@
-using System;
 using GlobalMechanics;
 using UnityEngine;
 
@@ -9,10 +8,19 @@ namespace CharacterInfo
         private BaseCharacter _baseCharacter;
         private LifeController _lifeController;
 
-        private void Awake()
+        private void Start()
         {
             _baseCharacter = GetComponent<BaseCharacter>();
             _lifeController = GetComponent<LifeController>();
+            _lifeController.OnAddition += Print;
+            _lifeController.OnSubtraction += Print;
+            
+            CalculateMaxHealth();
+        }
+
+        public void Print()
+        {
+            print(_lifeController.CurrentResource);
         }
 
         public void TakeDamage(int damage, DamageType damageType)
@@ -28,6 +36,15 @@ namespace CharacterInfo
             if (damageAfter <= 0) return;
             
             _lifeController.SubtractResource(damageAfter);
+        }
+        
+        private void CalculateMaxHealth()
+        {
+            var maxHp = (_baseCharacter.BaseCharacterStatistics.Constitution * (int)HealthAttributeModifier.ConstitutionMod) + 
+                        (_baseCharacter.BaseCharacterStatistics.Strength * (int)HealthAttributeModifier.StrengthMod) + 
+                        _baseCharacter.BaseCharacterStatistics.BaseHealth;
+            
+            _lifeController.SetMaxResource(maxHp);
         }
     }
 }

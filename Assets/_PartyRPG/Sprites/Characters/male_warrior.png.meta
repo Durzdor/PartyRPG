@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 2048
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -94,6 +94,18 @@ TextureImporter:
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -787,7 +799,7 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       male_warrior_2: 1465470506
-      male_warrior_23: -437305023
+      male_warrior_4: 1548010448
       warrior_walk_1: -2118248784
       male_warrior_10: 965776487
       male_warrior_8: -1663928008
@@ -849,7 +861,7 @@ TextureImporter:
       male_warrior_19: -1212951762
       male_warrior_34: 1762806093
       warrior_attack_3: -150015738
-      male_warrior_4: 1548010448
+      male_warrior_23: -437305023
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

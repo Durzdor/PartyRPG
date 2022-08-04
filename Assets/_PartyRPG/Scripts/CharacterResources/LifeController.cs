@@ -60,6 +60,7 @@ namespace CharacterInfo
         public void SetMaxResource(int resourceAmount)
         {
             MaxResource = resourceAmount;
+            CurrentResource = MaxResource;
         }
     }
 }

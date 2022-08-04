@@ -17,5 +17,6 @@ MonoBehaviour:
   dexterity: 1
   constitution: 3
   intelligence: 1
-  armor: 1
+  armor: 5
   magicResist: 1
+  baseHealth: 100

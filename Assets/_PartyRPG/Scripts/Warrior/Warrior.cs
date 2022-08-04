@@ -9,8 +9,7 @@ namespace CharacterInfo
         private new void Awake()
         {
             base.Awake();
-            _baseCharacterStatistics = warriorBaseCharacterStatistics;
-            CalculateMaxHealth();
+            BaseCharacterStatistics = warriorBaseCharacterStatistics;
         }
     }
 }
